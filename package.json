@@ -1,0 +1,19 @@
+{
+  "name": "npm_practice",
+  "version": "1.0.0",
+  "description": "npm package for simple mathematical applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmahawewa/npm_practice.git"
+  },
+  "author": "RaviniDimanthiMahawewa@LCodeRecipies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rmahawewa/npm_practice/issues"
+  },
+  "homepage": "https://github.com/rmahawewa/npm_practice#readme"
+}
